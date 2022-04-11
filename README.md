@@ -14,6 +14,6 @@ Demo Video
 
 <figure class="video_container">
   <video controls="true" allowfullscreen="true" poster="">
-    <source src="The_mask_v.2.mp4" type="video/mp4">
+    <source src="The-Mask_ARFilter/The_mask_v.2.mp4" type="video/mp4">
   </video>
 </figure>
