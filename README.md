@@ -11,8 +11,6 @@ Preview Video
 <!-- blank line -->
 <br>
 <!-- blank line -->
-<!-- blank line -->
-<figure class="video_container">
-  <iframe src="https://www.youtube.com/embed/hzSC_gk5LQE" frameborder="0" allowfullscreen="true"> </iframe>
-</figure>
+<a href="https://www.youtube.com/embed/hzSC_gk5LQE"  target="_blank"><img src="http://img.youtube.com/vi/hzSC_gk5LQE/0.jpg" 
+alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
 <!-- blank line -->
